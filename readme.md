@@ -2,6 +2,11 @@
 
 ### FreeCodeCamp Intermediate Front End Development Project : Build a Wikipedia Viewer
 
-1- I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
+#### User Stories:
 
-2- I can click a button to see a random Wikipedia entry.
+- [x] I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
+
+- [x] I can click a button to see a random Wikipedia entry.
+
+
+#### Live version : https://codepen.io/Bearsintours/full/VmgGdX/
